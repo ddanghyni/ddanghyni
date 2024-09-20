@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddanghyni&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddanghyni&layout=compact" />
+</div>
+
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -12,10 +18,4 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
   
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddanghyni&layout=compact" alt="Top Langs" />
 </div>
